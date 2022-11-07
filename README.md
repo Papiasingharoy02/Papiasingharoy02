@@ -1,13 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Papia Singha Roy</h1>
 <h3 align="center">Let's create a new chapter :) </h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif"> 
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif"> 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papiasingharoy02&label=Profile%20views&color=0e75b6&style=flat" alt="papiasingharoy02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papiasingharoy02" alt="papiasingharoy02" /></a> </p>
 
 - 🌱 I’m currently learning **Android studio**
 
