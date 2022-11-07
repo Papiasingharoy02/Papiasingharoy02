@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Papia Singha Roy</h1>
 <h3 align="center">Let's create a new chapter :) </h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-[![@ppr85153's Holopin board](https://holopin.me/ppr85153)](https://holopin.io/@ppr85153)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif"> 
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papiasingharoy02&label=Profile%20views&color=0e75b6&style=flat" alt="papiasingharoy02" /> </p>
