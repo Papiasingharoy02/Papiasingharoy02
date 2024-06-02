@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papiasingharoy02&label=Profile%20views&color=0e75b6&style=flat" alt="papiasingharoy02" /> </p>
 
-- 🌱 I’m currently learning **Android studio**
+- 🎓 I'am currently pursuing MCA from Netaji Subhash Engineering College
 
-- 💬 Ask me about **Android, Frontend development**
+- 🌱 I’m currently exploring **Full Stack Web Development**
 
 - 📫 How to reach me **Papiasingharoy502@gmail.com**
 
-- ⚡ Fun fact **Funny conversation's**
+- ⚡ Fun fact **Conversation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
