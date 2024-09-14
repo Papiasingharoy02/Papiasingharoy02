@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Conversation**
 
-<h3 align="left">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
+Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/papia-singha-roy-76a93720a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/papia-singha-roy-76a93720a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/singha_720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="singha_720" height="30" width="40" /></a>
