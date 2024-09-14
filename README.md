@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Papia Singha Roy</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  I'm Papia Singha Roy</h1>
 <h3 align="center">Let's create a new chapter :) </h3>
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif"> 
 
